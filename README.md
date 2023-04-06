@@ -13,7 +13,7 @@ Senior Software Engineer @ [Microsoft](https://github.com/Microsoft)
 [![GitHub - latest release date](https://img.shields.io/github/release-date/DariuszPorowski/mkdocs-file-filter-plugin?style=flat-square&label=latest%20release%20date)](https://github.com/DariuszPorowski/mkdocs-file-filter-plugin/releases/latest)
 [![PyPI - version](https://img.shields.io/pypi/v/mkdocs-file-filter-plugin?style=flat-square)](https://pypi.org/project/mkdocs-file-filter-plugin)
 [![PyPI - downloads](https://img.shields.io/pypi/dm/mkdocs-file-filter-plugin?style=flat-square)](https://pypi.org/project/mkdocs-file-filter-plugin)
-[![GitHub - build](https://img.shields.io/github/actions/workflow/status/DariuszPorowski/mkdocs-file-filter-plugin/workflow.release.yml?style=flat-square&event=release)](https://github.com/DariuszPorowski/mkdocs-file-filter-plugin)
+[![GitHub - ci](https://img.shields.io/github/actions/workflow/status/DariuszPorowski/mkdocs-file-filter-plugin/workflow.ci.yml?style=flat-square&branch=main&event=push)](https://github.com/DariuszPorowski/mkdocs-file-filter-plugin)
 [![GitHub - license](https://img.shields.io/github/license/DariuszPorowski/mkdocs-file-filter-plugin?style=flat-square)](https://github.com/DariuszPorowski/mkdocs-file-filter-plugin/blob/main/LICENSE)
 [![GitHub - stars](https://img.shields.io/github/stars/DariuszPorowski/mkdocs-file-filter-plugin?style=flat-square)](https://github.com/DariuszPorowski/mkdocs-file-filter-plugin)
 
