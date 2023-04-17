@@ -8,6 +8,17 @@ Senior Software Engineer @ [Microsoft](https://github.com/Microsoft)
 
 ## Open Source projects
 
+### [chatgpt-pre-commit-hooks](https://github.com/DariuszPorowski/chatgpt-pre-commit-hooks)
+
+[![GitHub - latest release date](https://img.shields.io/github/release-date/DariuszPorowski/chatgpt-pre-commit-hooks?style=flat-square&label=latest%20release%20date)](https://github.com/DariuszPorowski/chatgpt-pre-commit-hooks/releases/latest)
+[![PyPI - version](https://img.shields.io/pypi/v/chatgpt-pre-commit-hooks?style=flat-square)](https://pypi.org/project/chatgpt-pre-commit-hooks)
+[![PyPI - downloads](https://img.shields.io/pypi/dm/chatgpt-pre-commit-hooks?style=flat-square)](https://pypistats.org/packages/chatgpt-pre-commit-hooks)
+[![GitHub - ci](https://img.shields.io/github/actions/workflow/status/DariuszPorowski/chatgpt-pre-commit-hooks/workflow.ci.yml?style=flat-square&branch=main&event=push)](https://github.com/DariuszPorowski/chatgpt-pre-commit-hooks)
+[![GitHub - license](https://img.shields.io/github/license/DariuszPorowski/chatgpt-pre-commit-hooks?style=flat-square)](https://github.com/DariuszPorowski/chatgpt-pre-commit-hooks/blob/main/LICENSE)
+[![GitHub - stars](https://img.shields.io/github/stars/DariuszPorowski/chatgpt-pre-commit-hooks?style=flat-square)](https://github.com/DariuszPorowski/chatgpt-pre-commit-hooks)
+
+Pre-commit hooks collection that utilizes ChatGPT and OpenAI platform to validate changes made to the codebase.
+
 ### [mkdocs-file-filter-plugin](https://github.com/DariuszPorowski/mkdocs-file-filter-plugin)
 
 [![GitHub - latest release date](https://img.shields.io/github/release-date/DariuszPorowski/mkdocs-file-filter-plugin?style=flat-square&label=latest%20release%20date)](https://github.com/DariuszPorowski/mkdocs-file-filter-plugin/releases/latest)
