@@ -8,6 +8,16 @@ Senior Software Engineer @ [Microsoft](https://github.com/Microsoft)
 
 ## Open Source projects
 
+### `actionlint-action`
+
+[![GitHub - marketplace](https://img.shields.io/badge/marketplace-actionlint--action-blue?logo=github&style=flat-square)](https://github.com/marketplace/actions/actionlint-action)
+[![GitHub - latest release date](https://img.shields.io/github/release-date/DariuszPorowski/actionlint-action?style=flat-square&label=latest%20release%20date)](https://github.com/DariuszPorowski/actionlint-action/releases/latest)
+[![GitHub - latest release](https://img.shields.io/github/v/release/DariuszPorowski/actionlint-action?style=flat-square)](https://github.com/DariuszPorowski/actionlint-action/releases/latest)
+[![GitHub - license](https://img.shields.io/github/license/DariuszPorowski/actionlint-action?style=flat-square)](https://github.com/DariuszPorowski/actionlint-action/blob/main/LICENSE)
+[![GitHub - stars](https://img.shields.io/github/stars/DariuszPorowski/actionlint-action?style=flat-square)](https://github.com/DariuszPorowski/actionlint-action)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DariuszPorowski&repo=actionlint-action&theme=dark)](https://github.com/DariuszPorowski/actionlint-action)
+
 ### `dump-context-action`
 
 [![GitHub - marketplace](https://img.shields.io/badge/marketplace-dump--context--action-blue?logo=github&style=flat-square)](https://github.com/marketplace/actions/dump-context-action)
