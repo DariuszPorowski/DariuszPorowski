@@ -24,5 +24,6 @@ jobs:
         with:
           commit_message: Update generated README
           branch: dev-test
+          create_branch: true
         env:
           GITHUB_TOKEN: ${{ secrets.GH_PAT }}
