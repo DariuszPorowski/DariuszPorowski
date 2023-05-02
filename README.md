@@ -1,84 +1,41 @@
-## 👋 Who am I
+### Hi there 👋
 
-Senior Software Engineer @ [Microsoft](https://github.com/Microsoft)
+Want your own awesome profile page? Check out [markscribe](https://github.com/muesli/markscribe)!
 
-[![Dariusz's GitHub stats](https://github-readme-stats.vercel.app/api?username=DariuszPorowski&count_private=true&theme=dark&show_icons=true)](https://github.com/DariuszPorowski)
+#### 🌱 Check out what I'm currently working on
 
-## 👨‍💻 Open Source projects
 
-### [`actionlint` GitHub Action](https://github.com/DariuszPorowski/ghaction-actionlint)
+- [DariuszPorowski/ghaction-actionlint](https://github.com/DariuszPorowski/ghaction-actionlint) - Run actionlint in your GitHub workflow.
+- [DariuszPorowski/ghaction-dump-contexts](https://github.com/DariuszPorowski/ghaction-dump-contexts) - Dump GitHub contexts and Runner environment.
+- [DariuszPorowski/chatgpt-pre-commit-hooks](https://github.com/DariuszPorowski/chatgpt-pre-commit-hooks) - Pre-commit hooks collection that utilizes ChatGPT and OpenAI platform to validate changes made to the codebase.
+- [DariuszPorowski/mkdocs-file-filter-plugin](https://github.com/DariuszPorowski/mkdocs-file-filter-plugin) - A MkDocs plugin that lets you exclude/include docs files using globs, regexes, gitignore-style file and Markdown/FrontMatter tags metadata.
+- [DariuszPorowski/github-action-gitleaks](https://github.com/DariuszPorowski/github-action-gitleaks) - This GitHub Action allows you to run Gitleaks in your GitHub workflow.
+- [DariuszPorowski/StuffFromEvents](https://github.com/DariuszPorowski/StuffFromEvents) - 
+- [DariuszPorowski/AzureDevWorkshop](https://github.com/DariuszPorowski/AzureDevWorkshop) - Microsoft Azure Workshop for Developers
+- [DariuszPorowski/TechCaseStudies](https://github.com/DariuszPorowski/TechCaseStudies) - 
+- [DariuszPorowski/azure-pipelines-tasks-mysql](https://github.com/DariuszPorowski/azure-pipelines-tasks-mysql) - A collection of tasks to enable execution MySQL commands or scripts by VSTS/TFS Windows Agents.
 
-[![GitHub - marketplace](https://img.shields.io/badge/marketplace-actionlint-blue?logo=github&style=flat-square)](https://github.com/marketplace/actions/actionlint)
-[![GitHub - latest release](https://img.shields.io/github/v/release/DariuszPorowski/ghaction-actionlint?style=flat-square)](https://github.com/DariuszPorowski/ghaction-actionlint/releases/latest)
-[![GitHub - latest release date](https://img.shields.io/github/release-date/DariuszPorowski/ghaction-actionlint?style=flat-square&label=latest%20release%20date)](https://github.com/DariuszPorowski/ghaction-actionlint/releases/latest)
-[![GitHub - license](https://img.shields.io/github/license/DariuszPorowski/ghaction-actionlint?style=flat-square)](https://github.com/DariuszPorowski/ghaction-actionlint/blob/main/LICENSE)
-[![GitHub - stars](https://img.shields.io/github/stars/DariuszPorowski/ghaction-actionlint?style=flat-square)](https://github.com/DariuszPorowski/ghaction-actionlint)
+#### 🔭 Latest releases I've contributed to
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DariuszPorowski&repo=ghaction-actionlint&theme=dark)](https://github.com/DariuszPorowski/ghaction-actionlint)
 
-### [`dump-contexts` GitHub Action](https://github.com/DariuszPorowski/ghaction-dump-contexts)
+- [DariuszPorowski/ghaction-dump-contexts](https://github.com/DariuszPorowski/ghaction-dump-contexts) ([v1.0.0](https://github.com/DariuszPorowski/ghaction-dump-contexts/releases/tag/v1.0.0), today) - Dump GitHub contexts and Runner environment.
+- [DariuszPorowski/ghaction-actionlint](https://github.com/DariuszPorowski/ghaction-actionlint) ([v1.0.0](https://github.com/DariuszPorowski/ghaction-actionlint/releases/tag/v1.0.0), today) - Run actionlint in your GitHub workflow.
+- [DariuszPorowski/chatgpt-pre-commit-hooks](https://github.com/DariuszPorowski/chatgpt-pre-commit-hooks) ([v0.1.3](https://github.com/DariuszPorowski/chatgpt-pre-commit-hooks/releases/tag/v0.1.3), 1 week ago) - Pre-commit hooks collection that utilizes ChatGPT and OpenAI platform to validate changes made to the codebase.
+- [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) ([v8.16.3](https://github.com/gitleaks/gitleaks/releases/tag/v8.16.3), 1 week ago) - Protect and discover secrets using Gitleaks 🔑
+- [gabe565/gh-profile](https://github.com/gabe565/gh-profile) ([v1.3.2](https://github.com/gabe565/gh-profile/releases/tag/v1.3.2), 2 weeks ago) - :octocat: Use multiple GitHub accounts with the gh cli.
+- [DariuszPorowski/mkdocs-file-filter-plugin](https://github.com/DariuszPorowski/mkdocs-file-filter-plugin) ([v0.0.7](https://github.com/DariuszPorowski/mkdocs-file-filter-plugin/releases/tag/v0.0.7), 3 weeks ago) - A MkDocs plugin that lets you exclude/include docs files using globs, regexes, gitignore-style file and Markdown/FrontMatter tags metadata.
+- [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter) ([v6.22.2](https://github.com/oxsecurity/megalinter/releases/tag/v6.22.2), 4 weeks ago) - 🦙 Mega-Linter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or locally.
+- [JonasDoesThings/mkdocs-exclude-unused-files](https://github.com/JonasDoesThings/mkdocs-exclude-unused-files) ([v1.1.0](https://github.com/JonasDoesThings/mkdocs-exclude-unused-files/releases/tag/v1.1.0), 1 month ago) - Exclude orphaned (unused) static files from your mkdocs build
+- [DariuszPorowski/github-action-gitleaks](https://github.com/DariuszPorowski/github-action-gitleaks) ([v2.0.7](https://github.com/DariuszPorowski/github-action-gitleaks/releases/tag/v2.0.7), 1 month ago) - This GitHub Action allows you to run Gitleaks in your GitHub workflow.
+- [falti/dotenv-action](https://github.com/falti/dotenv-action) ([v1.0.4](https://github.com/falti/dotenv-action/releases/tag/v1.0.4), 2 months ago) - Provide common parameters via .env file
 
-[![GitHub - marketplace](https://img.shields.io/badge/marketplace-dump--contexts-blue?logo=github&style=flat-square)](https://github.com/marketplace/actions/ghaction-dump-contexts)
-[![GitHub - latest release](https://img.shields.io/github/v/release/DariuszPorowski/ghaction-dump-contexts?style=flat-square)](https://github.com/DariuszPorowski/ghaction-dump-contexts/releases/latest)
-[![GitHub - latest release date](https://img.shields.io/github/release-date/DariuszPorowski/ghaction-dump-contexts?style=flat-square&label=latest%20release%20date)](https://github.com/DariuszPorowski/ghaction-dump-contexts/releases/latest)
-[![GitHub - license](https://img.shields.io/github/license/DariuszPorowski/ghaction-dump-contexts?style=flat-square)](https://github.com/DariuszPorowski/ghaction-dump-contexts/blob/main/LICENSE)
-[![GitHub - stars](https://img.shields.io/github/stars/DariuszPorowski/ghaction-dump-contexts?style=flat-square)](https://github.com/DariuszPorowski/ghaction-dump-contexts)
+#### 👯 Check out some of my recent followers
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DariuszPorowski&repo=ghaction-dump-contexts&theme=dark)](https://github.com/DariuszPorowski/ghaction-dump-contexts)
 
-### [ChatGPT Pre-Commit Hooks](https://github.com/DariuszPorowski/chatgpt-pre-commit-hooks)
+- [hattan](https://github.com/hattan)
+- [MichalTarasiuk](https://github.com/MichalTarasiuk)
+- [vamota](https://github.com/vamota)
+- [ffeelliiggoo](https://github.com/ffeelliiggoo)
+- [aacecandev](https://github.com/aacecandev)
 
-[![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&style=flat-square)](https://github.com/pre-commit/pre-commit)
-[![PyPI - version](https://img.shields.io/pypi/v/chatgpt-pre-commit-hooks?style=flat-square)](https://pypi.org/project/chatgpt-pre-commit-hooks)
-[![PyPI - downloads](https://img.shields.io/pypi/dm/chatgpt-pre-commit-hooks?style=flat-square)](https://pypistats.org/packages/chatgpt-pre-commit-hooks)
-[![GitHub - latest release date](https://img.shields.io/github/release-date/DariuszPorowski/chatgpt-pre-commit-hooks?style=flat-square&label=latest%20release%20date)](https://github.com/DariuszPorowski/chatgpt-pre-commit-hooks/releases/latest)
-[![GitHub - license](https://img.shields.io/github/license/DariuszPorowski/chatgpt-pre-commit-hooks?style=flat-square)](https://github.com/DariuszPorowski/chatgpt-pre-commit-hooks/blob/main/LICENSE)
-[![GitHub - stars](https://img.shields.io/github/stars/DariuszPorowski/chatgpt-pre-commit-hooks?style=flat-square)](https://github.com/DariuszPorowski/chatgpt-pre-commit-hooks)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DariuszPorowski&repo=chatgpt-pre-commit-hooks&theme=dark)](https://github.com/DariuszPorowski/chatgpt-pre-commit-hooks)
-
-### `mkdocs-file-filter-plugin`
-
-[![PyPI - version](https://img.shields.io/pypi/v/mkdocs-file-filter-plugin?style=flat-square)](https://pypi.org/project/mkdocs-file-filter-plugin)
-[![PyPI - downloads](https://img.shields.io/pypi/dm/mkdocs-file-filter-plugin?style=flat-square)](https://pypistats.org/packages/mkdocs-file-filter-plugin)
-[![GitHub - latest release date](https://img.shields.io/github/release-date/DariuszPorowski/mkdocs-file-filter-plugin?style=flat-square&label=latest%20release%20date)](https://github.com/DariuszPorowski/mkdocs-file-filter-plugin/releases/latest)
-[![GitHub - license](https://img.shields.io/github/license/DariuszPorowski/mkdocs-file-filter-plugin?style=flat-square)](https://github.com/DariuszPorowski/mkdocs-file-filter-plugin/blob/main/LICENSE)
-[![GitHub - stars](https://img.shields.io/github/stars/DariuszPorowski/mkdocs-file-filter-plugin?style=flat-square)](https://github.com/DariuszPorowski/mkdocs-file-filter-plugin)
-
-`mkdocs-file-filter-plugin` allows you to exclude/include files using Unix-style wildcards (`globs`), regular expressions (`regexes`), `.mkdocsignore` (gitignore-style file), or Markdown/FrontMatter `tags` (or custom property) metadata. In addition, it supports navigation filtering (`nav:`) based on excludes and external config files with patterns/rules that can be injected based on environmental variables to serve outputs based on different environments, audiences, etc.
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DariuszPorowski&repo=mkdocs-file-filter-plugin&theme=dark)](https://github.com/DariuszPorowski/mkdocs-file-filter-plugin)
-
-### [`gitleaks-scanner` GitHub Action](https://github.com/DariuszPorowski/github-action-gitleaks)
-
-[![GitHub - marketplace](https://img.shields.io/badge/marketplace-gitleaks--scanner-blue?logo=github&style=flat-square)](https://github.com/marketplace/actions/gitleaks-scanner)
-[![GitHub - latest release](https://img.shields.io/github/v/release/DariuszPorowski/github-action-gitleaks?style=flat-square)](https://github.com/DariuszPorowski/github-action-gitleaks/releases/latest)
-[![GitHub - latest release date](https://img.shields.io/github/release-date/DariuszPorowski/github-action-gitleaks?style=flat-square&label=latest%20release%20date)](https://github.com/DariuszPorowski/github-action-gitleaks/releases/latest)
-[![GitHub - license](https://img.shields.io/github/license/DariuszPorowski/github-action-gitleaks?style=flat-square)](https://github.com/DariuszPorowski/github-action-gitleaks/blob/main/LICENSE)
-[![GitHub - stars](https://img.shields.io/github/stars/DariuszPorowski/github-action-gitleaks?style=flat-square)](https://github.com/DariuszPorowski/github-action-gitleaks)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DariuszPorowski&repo=github-action-gitleaks&theme=dark)](https://github.com/DariuszPorowski/github-action-gitleaks)
-
-## 🧮 Some stats
-
-[![DariuszPorowski's Trophy](https://github-profile-trophy.vercel.app/?username=DariuszPorowski&theme=onedark)](https://github.com/DariuszPorowski)
-
-[![DariuszPorowski's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DariuszPorowski&langs_count=10&theme=dark&layout=compact)](https://github.com/DariuszPorowski)
-
-[![GitHub profile views](https://komarev.com/ghpvc/?username=DariuszPorowski&logo=github&style=flat-square)](https://github.com/DariuszPorowski)
-[![GitHub followers](https://img.shields.io/github/followers/DariuszPorowski?logo=github&style=flat-square)](https://github.com/DariuszPorowski)
-
-<!--
-**DariuszPorowski/DariuszPorowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 💬 Feedback
