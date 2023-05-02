@@ -14,13 +14,15 @@ jobs:
       - uses: actions/checkout@v3
 
       - uses: muesli/readme-scribe@master
-        env:
-          GITHUB_TOKEN: ${{ github.token }}
         with:
           template: _templates/README.md.tpl
           writeTo: README.md
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_PAT }}
 
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: Update generated README
           branch: dev-test
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_PAT }}
