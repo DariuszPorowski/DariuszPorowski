@@ -8,25 +8,25 @@ Senior Software Engineer @ [Microsoft](https://github.com/Microsoft)
 
 ## Open Source projects
 
-### `actionlint-action`
+### `actionlint` GitHub Action
 
-[![GitHub - marketplace](https://img.shields.io/badge/marketplace-actionlint--action-blue?logo=github&style=flat-square)](https://github.com/marketplace/actions/actionlint-action)
-[![GitHub - latest release date](https://img.shields.io/github/release-date/DariuszPorowski/actionlint-action?style=flat-square&label=latest%20release%20date)](https://github.com/DariuszPorowski/actionlint-action/releases/latest)
-[![GitHub - latest release](https://img.shields.io/github/v/release/DariuszPorowski/actionlint-action?style=flat-square)](https://github.com/DariuszPorowski/actionlint-action/releases/latest)
-[![GitHub - license](https://img.shields.io/github/license/DariuszPorowski/actionlint-action?style=flat-square)](https://github.com/DariuszPorowski/actionlint-action/blob/main/LICENSE)
-[![GitHub - stars](https://img.shields.io/github/stars/DariuszPorowski/actionlint-action?style=flat-square)](https://github.com/DariuszPorowski/actionlint-action)
+[![GitHub - marketplace](https://img.shields.io/badge/marketplace-actionlint-blue?logo=github&style=flat-square)](https://github.com/marketplace/actions/actionlint)
+[![GitHub - latest release date](https://img.shields.io/github/release-date/DariuszPorowski/ghaction-actionlint?style=flat-square&label=latest%20release%20date)](https://github.com/DariuszPorowski/ghaction-actionlint/releases/latest)
+[![GitHub - latest release](https://img.shields.io/github/v/release/DariuszPorowski/ghaction-actionlint?style=flat-square)](https://github.com/DariuszPorowski/ghaction-actionlint/releases/latest)
+[![GitHub - license](https://img.shields.io/github/license/DariuszPorowski/ghaction-actionlint?style=flat-square)](https://github.com/DariuszPorowski/ghaction-actionlint/blob/main/LICENSE)
+[![GitHub - stars](https://img.shields.io/github/stars/DariuszPorowski/ghaction-actionlint?style=flat-square)](https://github.com/DariuszPorowski/ghaction-actionlint)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DariuszPorowski&repo=actionlint-action&theme=dark)](https://github.com/DariuszPorowski/actionlint-action)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DariuszPorowski&repo=ghaction-actionlint&theme=dark)](https://github.com/DariuszPorowski/ghaction-actionlint)
 
-### `dump-context-action`
+### `dump-contexts` GitHub Action
 
-[![GitHub - marketplace](https://img.shields.io/badge/marketplace-dump--context--action-blue?logo=github&style=flat-square)](https://github.com/marketplace/actions/dump-context-action)
-[![GitHub - latest release date](https://img.shields.io/github/release-date/DariuszPorowski/dump-context-action?style=flat-square&label=latest%20release%20date)](https://github.com/DariuszPorowski/dump-context-action/releases/latest)
-[![GitHub - latest release](https://img.shields.io/github/v/release/DariuszPorowski/dump-context-action?style=flat-square)](https://github.com/DariuszPorowski/dump-context-action/releases/latest)
-[![GitHub - license](https://img.shields.io/github/license/DariuszPorowski/dump-context-action?style=flat-square)](https://github.com/DariuszPorowski/dump-context-action/blob/main/LICENSE)
-[![GitHub - stars](https://img.shields.io/github/stars/DariuszPorowski/dump-context-action?style=flat-square)](https://github.com/DariuszPorowski/dump-context-action)
+[![GitHub - marketplace](https://img.shields.io/badge/marketplace-dump--contexts-blue?logo=github&style=flat-square)](https://github.com/marketplace/actions/ghaction-dump-contexts)
+[![GitHub - latest release date](https://img.shields.io/github/release-date/DariuszPorowski/ghaction-dump-contexts?style=flat-square&label=latest%20release%20date)](https://github.com/DariuszPorowski/ghaction-dump-contexts/releases/latest)
+[![GitHub - latest release](https://img.shields.io/github/v/release/DariuszPorowski/ghaction-dump-contexts?style=flat-square)](https://github.com/DariuszPorowski/ghaction-dump-contexts/releases/latest)
+[![GitHub - license](https://img.shields.io/github/license/DariuszPorowski/ghaction-dump-contexts?style=flat-square)](https://github.com/DariuszPorowski/ghaction-dump-contexts/blob/main/LICENSE)
+[![GitHub - stars](https://img.shields.io/github/stars/DariuszPorowski/ghaction-dump-contexts?style=flat-square)](https://github.com/DariuszPorowski/ghaction-dump-contexts)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DariuszPorowski&repo=dump-context-action&theme=dark)](https://github.com/DariuszPorowski/dump-context-action)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DariuszPorowski&repo=ghaction-dump-contexts&theme=dark)](https://github.com/DariuszPorowski/ghaction-dump-contexts)
 
 ### `chatgpt-pre-commit-hooks`
 
