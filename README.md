@@ -2,6 +2,11 @@
 
 Senior Software Engineer @ [Microsoft](https://github.com/Microsoft)
 
+ex-MVP
+
+[<img src="https://mvp.microsoft.com/Content/Images/MVP_Reconnect_Logo_Blue_Color_RGB.png" width="300">](https://mvp.microsoft.com/en-us/PublicProfile/4030608)
+
+
 [![Dariusz's GitHub stats](https://github-readme-stats.vercel.app/api?username=DariuszPorowski&count_private=true&theme=dark&show_icons=true)](https://github.com/DariuszPorowski)
 
 ## 👨‍💻 Open Source projects
