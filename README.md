@@ -2,7 +2,7 @@
 
 Senior Software Engineer @ [Microsoft](https://github.com/Microsoft)
 
-ex-MVP
+MVP Alumni
 
 [<img src="https://mvp.microsoft.com/Content/Images/MVP_Reconnect_Logo_Blue_Color_RGB.png" width="300">](https://mvp.microsoft.com/en-us/PublicProfile/4030608)
 
