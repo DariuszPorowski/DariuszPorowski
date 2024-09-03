@@ -1,11 +1,10 @@
 ## 👋 Who am I
 
-Senior Software Engineer @ [Microsoft](https://github.com/Microsoft)
+Principal Software Engineer @ [Microsoft](https://github.com/Microsoft)
 
-MVP Alumni
+Microsoft Most Valuable Professional (MVP) Alumni
 
-[<img src="https://mvp.microsoft.com/Content/Images/MVP_Reconnect_Logo_Blue_Color_RGB.png" width="300">](https://mvp.microsoft.com/en-us/PublicProfile/4030608)
-
+[<img src="https://images.credly.com/images/307e548a-c59d-4b65-b3d7-cdced866f27f/image.png" width="200">](https://mvp.microsoft.com/en-us/PublicProfile/4030608)
 
 [![Dariusz's GitHub stats](https://github-readme-stats.vercel.app/api?username=DariuszPorowski&count_private=true&theme=dark&show_icons=true)](https://github.com/DariuszPorowski)
 
