@@ -1,6 +1,8 @@
-## 👋 Who am I
+# 👋 Who am I
 
-Principal Software Engineer @ [Microsoft](https://github.com/Microsoft)
+Principal Software Engineer @ [Microsoft](https://github.com/Microsoft) / [Azure Incubations](https://AzureIncubations.io) team within [Azure Office of the CTO](https://github.com/azure-octo)
+
+Currently mainly working on [radapp.io](https://radapp.io) - the [CNCF sandbox](https://www.cncf.io/projects/radius/) project - an open-source, cloud-native, application platform that enables developers and the operators that support them to define, deploy, and collaborate on cloud-native applications across public clouds and private infrastructure.
 
 Microsoft Most Valuable Professional (MVP) Alumni
 
